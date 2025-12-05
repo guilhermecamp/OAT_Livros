@@ -1,10 +1,19 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, Image, ScrollView, StyleSheet, Button, Alert } from 'react-native';
+import { View, Text, Image, ScrollView, StyleSheet, Button, Alert, useWindowDimensions } from 'react-native';
 import armazenamentoFavoritos from '../storage/armazenamentoFavoritos';
+import theme from '../theme';
+import FONTS from '../typography';
 
 export default function TelaDetalhes({ route, navigation }){
+  useEffect(() => {
+    navigation.setOptions({ title: 'Detalhes do Livro' });
+  }, [navigation]);
   const book = route.params?.book;
   const [isFav, setIsFav] = useState(false);
+  const { width, height } = useWindowDimensions();
+  const coverHeight = Math.max(320, Math.round(Math.min(width, height) * 0.6));
+  const [containerWidth, setContainerWidth] = useState(null);
+  const [imageHeight, setImageHeight] = useState(coverHeight);
 
   useEffect(() => {
     let mounted = true;
@@ -12,6 +21,18 @@ export default function TelaDetalhes({ route, navigation }){
     armazenamentoFavoritos.ehFavorito(book.id).then(v => mounted && setIsFav(v));
     return () => { mounted = false; };
   }, [book]);
+
+  useEffect(() => {
+    let mounted = true;
+    if (!book || !containerWidth) return;
+    Image.getSize(book.cover, (w, h) => {
+      const scaled = Math.round(containerWidth * h / w);
+      if (mounted) setImageHeight(Math.max(coverHeight, scaled));
+    }, () => {
+      if (mounted) setImageHeight(coverHeight);
+    });
+    return () => { mounted = false; };
+  }, [book, containerWidth, coverHeight]);
 
   async function handleAdd(){
     if (!book) return;
@@ -44,23 +65,25 @@ export default function TelaDetalhes({ route, navigation }){
 
   return (
     <ScrollView contentContainerStyle={{ padding: 16 }}>
-      <Image source={{ uri: book.cover }} style={styles.cover} />
+      <View onLayout={(e) => setContainerWidth(e.nativeEvent.layout.width)}>
+        <Image source={{ uri: book.cover }} style={[styles.cover, { height: imageHeight }]} resizeMode="contain" />
+      </View>
       <Text style={styles.title}>{book.title}</Text>
-      <Text style={styles.author}>{book.author} — {book.year}</Text>
+  <Text style={styles.author}>{book.author} — {book.year}</Text>
       <Text style={styles.desc}>{book.description}</Text>
       <View style={{ height: 12 }} />
       {!isFav ? (
-        <Button title="Adicionar aos Favoritos" onPress={handleAdd} />
+        <Button title="Adicionar aos Favoritos" onPress={handleAdd} color={theme.colors.primary} />
       ) : (
-        <Button title="Remover dos Favoritos" onPress={handleRemove} color="#b83b3b" />
+        <Button title="Remover dos Favoritos" onPress={handleRemove} color={theme.colors.danger} />
       )}
     </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
-  cover: { width: '100%', height: 320, borderRadius: 8, backgroundColor: '#eee' },
-  title: { fontSize: 22, fontWeight: '700', marginTop: 12 },
-  author: { fontSize: 16, color: '#555', marginTop: 6 },
-  desc: { marginTop: 12, fontSize: 15, lineHeight: 22 }
+  cover: { width: '100%', height: 320, borderRadius: 8, backgroundColor: theme.colors.surface },
+  title: { fontSize: 22, fontWeight: '700', marginTop: 12, color: theme.colors.text, fontFamily: FONTS.CORMORANT_700 },
+  author: { fontSize: 16, color: theme.colors.muted, marginTop: 6, fontFamily: FONTS.JOSEFIN_400 },
+  desc: { marginTop: 12, fontSize: 15, lineHeight: 22, color: theme.colors.text }
 });

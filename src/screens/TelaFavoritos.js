@@ -1,10 +1,16 @@
 import React, { useEffect, useState } from 'react';
 import { View, FlatList, Text, StyleSheet, TouchableOpacity, Alert, ActivityIndicator } from 'react-native';
+import theme from '../theme';
 import ItemLivro from '../components/ItemLivro';
 import armazenamentoFavoritos from '../storage/armazenamentoFavoritos';
 import servicoApi from '../services/servico_api';
 
+import FONTS from '../typography';
+
 export default function TelaFavoritos({ navigation }){
+  useEffect(() => {
+    navigation.setOptions({ title: 'Seus Favoritos' });
+  }, [navigation]);
   const [list, setList] = useState([]);
   const [loading, setLoading] = useState(false);
 
@@ -40,7 +46,7 @@ export default function TelaFavoritos({ navigation }){
   return (
     <View style={{ flex: 1 }}>
       <View style={styles.header}>
-        <Text style={styles.title}>Favoritos ({list.length})</Text>
+        <Text style={[styles.title, { fontFamily: FONTS.CORMORANT_700 }]}>Favoritos ({list.length})</Text>
         <TouchableOpacity style={styles.clearBtn} onPress={handleClear}>
           <Text style={styles.clearText}>Limpar</Text>
         </TouchableOpacity>
@@ -50,7 +56,7 @@ export default function TelaFavoritos({ navigation }){
         <ActivityIndicator style={{ marginTop: 24 }} />
       ) : (
         list.length === 0 ? <Text style={{ padding: 16 }}>Nenhum favorito salvo.</Text> : (
-          <FlatList data={list} keyExtractor={(item) => item.id} renderItem={({ item }) => <ItemLivro book={item} onPress={() => navigation.navigate('Details', { book: item })} />} />
+          <FlatList data={list} keyExtractor={(item) => item.id} renderItem={({ item }) => <ItemLivro book={item} onPress={() => navigation.navigate('TelaDetalhes', { book: item })} />} />
         )
       )}
     </View>
@@ -60,6 +66,6 @@ export default function TelaFavoritos({ navigation }){
 const styles = StyleSheet.create({
   header: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', padding: 12 },
   title: { fontSize: 18, fontWeight: '700' },
-  clearBtn: { backgroundColor: '#f25', paddingHorizontal: 10, paddingVertical: 6, borderRadius: 6 },
-  clearText: { color: '#fff', fontWeight: '600' }
+  clearBtn: { backgroundColor: theme.colors.danger, paddingHorizontal: 10, paddingVertical: 6, borderRadius: 6 },
+  clearText: { color: theme.colors.surface, fontWeight: '600' }
 });
