@@ -1,0 +1,3394 @@
+[
+  {
+    "id": "1",
+    "title": "A Leste do Éden",
+    "author": "John Steinbeck",
+    "year": 1952,
+    "description": "Drama familiar de Steinbeck.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book1/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "familia",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Kafka à Beira-Mar",
+    "author": "Haruki Murakami",
+    "year": 2002,
+    "description": "Romance surreal e mágico.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book2/200/300",
+    "tags": [
+      "fantasia",
+      "surrealismo",
+      "perturbador",
+      "misterio",
+      "drama"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "year": 1987,
+    "description": "Romance melancólico e psicológico.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book3/200/300",
+    "tags": [
+      "romance",
+      "drama",
+      "psicologico",
+      "virou_filme",
+      "jovem_adulto"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "A Insustentável Leveza do Ser",
+    "author": "Milan Kundera",
+    "year": 1984,
+    "description": "Romance filosófico sobre amor e política.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book4/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "romance",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "O Pintassilgo",
+    "author": "Donna Tartt",
+    "year": 2013,
+    "description": "Drama misterioso e psicológico.",
+    "category": "drama",
+    "cover": "https://picsum.photos/seed/book5/200/300",
+    "tags": [
+      "drama",
+      "misterio",
+      "virou_filme",
+      "crime",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Nunca Me Deixes Ir",
+    "author": "Kazuo Ishiguro",
+    "year": 2005,
+    "description": "Ficção científica melancólica.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book6/200/300",
+    "tags": [
+      "ficcao_cientifica",
+      "drama",
+      "perturbador",
+      "virou_filme",
+      "distopia"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Klara e o Sol",
+    "author": "Kazuo Ishiguro",
+    "year": 2021,
+    "description": "Reflexão sobre IA e empatia.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book7/200/300",
+    "tags": [
+      "ficcao_cientifica",
+      "distopia",
+      "para_iniciantes",
+      "drama",
+      "inteligencia_artificial"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "A Garota no Trem",
+    "author": "Paula Hawkins",
+    "year": 2015,
+    "description": "Suspense psicológico com reviravoltas.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book8/200/300",
+    "tags": [
+      "suspense",
+      "crime",
+      "virou_filme",
+      "misterio",
+      "para_iniciantes"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "year": 1922,
+    "description": "Jornada espiritual e filosófica.",
+    "category": "philosophy",
+    "cover": "https://picsum.photos/seed/book9/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "espiritualidade",
+      "para_iniciantes",
+      "viagem"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "O Lobo da Estepe",
+    "author": "Hermann Hesse",
+    "year": 1927,
+    "description": "Romance existencial e perturbador.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book10/200/300",
+    "tags": [
+      "classico",
+      "perturbador",
+      "psicologico",
+      "filosofia",
+      "surrealismo"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "O Jogo da Amarelinha",
+    "author": "Julio Cortázar",
+    "year": 1963,
+    "description": "Obra experimental e instigante.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book11/200/300",
+    "tags": [
+      "classico",
+      "experimental",
+      "romance",
+      "filosofia",
+      "latino_americano"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "A Vida Invisível de Addie LaRue",
+    "author": "V. E. Schwab",
+    "year": 2020,
+    "description": "Fantasia sobre memória e liberdade.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book12/200/300",
+    "tags": [
+      "fantasia",
+      "romance",
+      "historico",
+      "para_iniciantes",
+      "jovem_adulto"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "O Colecionador",
+    "author": "John Fowles",
+    "year": 1963,
+    "description": "Suspense psicológico perturbador.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book13/200/300",
+    "tags": [
+      "suspense",
+      "perturbador",
+      "virou_filme",
+      "psicologico",
+      "crime"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "O Papel de Parede Amarelo",
+    "author": "Charlotte Perkins Gilman",
+    "year": 2016,
+    "description": "Conto psicológico e feminista.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book14/200/300",
+    "tags": [
+      "classico",
+      "perturbador",
+      "contos",
+      "feminismo",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Casa de Folhas",
+    "author": "Mark Z. Danielewski",
+    "year": 2000,
+    "description": "Livro experimental e labiríntico.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book15/200/300",
+    "tags": [
+      "terror",
+      "experimental",
+      "perturbador",
+      "misterio",
+      "romance"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Ulisses",
+    "author": "James Joyce",
+    "year": 1922,
+    "description": "Obra modernista complexa e clássica.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book16/200/300",
+    "tags": [
+      "classico",
+      "experimental",
+      "drama",
+      "irlandes",
+      "modernismo"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "O Grande Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "description": "Crítica ao sonho americano.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book17/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "drama",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "18",
+    "title": "O Apanhador no Campo de Centeio",
+    "author": "J. D. Salinger",
+    "year": 1951,
+    "description": "Romance de formação icônico.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book18/200/300",
+    "tags": [
+      "classico",
+      "jovem_adulto",
+      "drama",
+      "para_iniciantes",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Cem Anos de Solidão",
+    "author": "Gabriel García Márquez",
+    "year": 1967,
+    "description": "Marco do realismo mágico latino-americano.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book19/200/300",
+    "tags": [
+      "classico",
+      "realismo_magico",
+      "familia",
+      "fantasia",
+      "epico"
+    ]
+  },
+  {
+    "id": "20",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "description": "Distopia política sobre vigilância.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book20/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "distopia",
+      "politica",
+      "perturbador"
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "description": "A saga do Capitão Ahab.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book21/200/300",
+    "tags": [
+      "classico",
+      "aventura",
+      "epico",
+      "virou_filme",
+      "filosofia"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Dom Quixote",
+    "author": "Miguel de Cervantes",
+    "year": 1605,
+    "description": "Clássico da literatura de cavalaria.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book22/200/300",
+    "tags": [
+      "classico",
+      "aventura",
+      "satira",
+      "comedia",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "O Som e a Fúria",
+    "author": "William Faulkner",
+    "year": 1929,
+    "description": "Narrativas interligadas sobre uma família sulista.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book23/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "familia",
+      "experimental",
+      "gotico"
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Anna Kariênina",
+    "author": "Liev Tolstói",
+    "year": 1877,
+    "description": "Tragédia romântica e crítica social.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book24/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "tragedia",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Crime e Castigo",
+    "author": "Fiódor Dostoiévski",
+    "year": 1866,
+    "description": "Estudo psicológico do crime e culpa.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book25/200/300",
+    "tags": [
+      "classico",
+      "crime",
+      "psicologico",
+      "perturbador",
+      "filosofia"
+    ]
+  },
+  {
+    "id": "26",
+    "title": "O Anticristo",
+    "author": "Friedrich Nietzsche",
+    "year": 1888,
+    "description": "Ensaios filosóficos e provocativos.",
+    "category": "philosophy",
+    "cover": "https://picsum.photos/seed/book26/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "religiao",
+      "polemico",
+      "ensaio"
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Orgulho e Preconceito",
+    "author": "Jane Austen",
+    "year": 1813,
+    "description": "Comédia romântica clássica.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book27/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "comedia",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "28",
+    "title": "1Q84",
+    "author": "Haruki Murakami",
+    "year": 2009,
+    "description": "Romance ambicioso e estranho.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book28/200/300",
+    "tags": [
+      "fantasia",
+      "distopia",
+      "perturbador",
+      "romance",
+      "misterio"
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Battle Royale",
+    "author": "Koushun Takami",
+    "year": 1999,
+    "description": "Distopia violenta e controversa.",
+    "category": "distopia",
+    "cover": "https://picsum.photos/seed/book29/200/300",
+    "tags": [
+      "distopia",
+      "acao",
+      "perturbador",
+      "virou_filme",
+      "jovem_adulto"
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Guerra e Paz",
+    "author": "Liev Tolstói",
+    "year": 1869,
+    "description": "Épico histórico sobre guerra e sociedade.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book30/200/300",
+    "tags": [
+      "classico",
+      "historico",
+      "guerra",
+      "romance",
+      "epico"
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "year": 1955,
+    "description": "Romance polêmico e estilisticamente complexo.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book31/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "polemico",
+      "perturbador",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "32",
+    "title": "O Morro dos Ventos Uivantes",
+    "author": "Emily Brontë",
+    "year": 1847,
+    "description": "Romance gótico e apaixonado.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book32/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "gotico",
+      "virou_filme",
+      "tragedia"
+    ]
+  },
+  {
+    "id": "33",
+    "title": "O Senhor dos Anéis",
+    "author": "J. R. R. Tolkien",
+    "year": 1954,
+    "description": "Grande épico de fantasia.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book33/200/300",
+    "tags": [
+      "fantasia",
+      "aventura",
+      "epico",
+      "virou_filme",
+      "classico"
+    ]
+  },
+  {
+    "id": "34",
+    "title": "A Canção de Aquiles",
+    "author": "Madeline Miller",
+    "year": 2011,
+    "description": "Releitura mitológica com viés romântico.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book34/200/300",
+    "tags": [
+      "fantasia",
+      "romance",
+      "mitologia",
+      "historico",
+      "lgbtq"
+    ]
+  },
+  {
+    "id": "35",
+    "title": "O Sol é Para Todos",
+    "author": "Harper Lee",
+    "year": 1960,
+    "description": "Romance sobre justiça racial.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book35/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "justica",
+      "virou_filme",
+      "social"
+    ]
+  },
+  {
+    "id": "36",
+    "title": "O Rei de Amarelo",
+    "author": "Robert W. Chambers",
+    "year": 1895,
+    "description": "Coletânea de contos estranhos.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book36/200/300",
+    "tags": [
+      "classico",
+      "terror",
+      "contos",
+      "fantasia",
+      "perturbador"
+    ]
+  },
+  {
+    "id": "37",
+    "title": "A Bíblia",
+    "author": "Desconhecido",
+    "year": -1400,
+    "description": "Texto religioso central para muitas culturas.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book37/200/300",
+    "tags": [
+      "classico",
+      "religiao",
+      "historico",
+      "espiritualidade",
+      "mitologia"
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Os Irmãos Karamazov",
+    "author": "Fiódor Dostoiévski",
+    "year": 1880,
+    "description": "Drama filosófico sobre fé e moral.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book38/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "filosofia",
+      "perturbador",
+      "familia"
+    ]
+  },
+  {
+    "id": "39",
+    "title": "O Processo",
+    "author": "Franz Kafka",
+    "year": 1925,
+    "description": "Narrativa surreal sobre burocracia.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book39/200/300",
+    "tags": [
+      "classico",
+      "surrealismo",
+      "drama",
+      "perturbador",
+      "politica"
+    ]
+  },
+  {
+    "id": "40",
+    "title": "O Estrangeiro",
+    "author": "Albert Camus",
+    "year": 1942,
+    "description": "Romance existencial e conciso.",
+    "category": "philosophy",
+    "cover": "https://picsum.photos/seed/book40/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "crime",
+      "para_iniciantes",
+      "existencialismo"
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "year": 1857,
+    "description": "Tragédia romântica e realista.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book41/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "tragedia",
+      "virou_filme",
+      "realismo"
+    ]
+  },
+  {
+    "id": "42",
+    "title": "As Aventuras de Huckleberry Finn",
+    "author": "Mark Twain",
+    "year": 1884,
+    "description": "Aventura satírica pelo Mississippi.",
+    "category": "adventure",
+    "cover": "https://picsum.photos/seed/book42/200/300",
+    "tags": [
+      "classico",
+      "aventura",
+      "satira",
+      "virou_filme",
+      "jovem_adulto"
+    ]
+  },
+  {
+    "id": "43",
+    "title": "A Odisseia",
+    "author": "Homero",
+    "year": -740,
+    "description": "Épico mitológico grego.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book43/200/300",
+    "tags": [
+      "classico",
+      "mitologia",
+      "aventura",
+      "epico",
+      "poesia"
+    ]
+  },
+  {
+    "id": "44",
+    "title": "As Vinhas da Ira",
+    "author": "John Steinbeck",
+    "year": 1939,
+    "description": "Drama social sobre a Grande Depressão.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book44/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "social",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "45",
+    "title": "A Divina Comédia",
+    "author": "Dante Alighieri",
+    "year": 1308,
+    "description": "Poema épico sobre viagem espiritual.",
+    "category": "poetry",
+    "cover": "https://picsum.photos/seed/book45/200/300",
+    "tags": [
+      "classico",
+      "poesia",
+      "religiao",
+      "fantasia",
+      "epico"
+    ]
+  },
+  {
+    "id": "46",
+    "title": "A Montanha Mágica",
+    "author": "Thomas Mann",
+    "year": 1924,
+    "description": "Romance filosófico em sanatório.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book46/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "drama",
+      "historico",
+      "doenca"
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Ao Farol",
+    "author": "Virginia Woolf",
+    "year": 1927,
+    "description": "Romance modernista sobre família.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book47/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "familia",
+      "modernismo",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "year": 1847,
+    "description": "Romance gótico e de formação.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book48/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "drama",
+      "virou_filme",
+      "gotico"
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Alice no País das Maravilhas",
+    "author": "Lewis Carroll",
+    "year": 1865,
+    "description": "Fantasia infantil e surreal.",
+    "category": "childrens",
+    "cover": "https://picsum.photos/seed/book49/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "infantil",
+      "virou_filme",
+      "surrealismo"
+    ]
+  },
+  {
+    "id": "50",
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "year": 1925,
+    "description": "Dia na vida de uma mulher na Londres pós-guerra.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book50/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "cotidiano",
+      "virou_filme",
+      "modernismo"
+    ]
+  },
+  {
+    "id": "51",
+    "title": "Ardil-22",
+    "author": "Joseph Heller",
+    "year": 1961,
+    "description": "Sátira de guerra e burocracia.",
+    "category": "satire",
+    "cover": "https://picsum.photos/seed/book51/200/300",
+    "tags": [
+      "classico",
+      "guerra",
+      "satira",
+      "virou_filme",
+      "humor"
+    ]
+  },
+  {
+    "id": "52",
+    "title": "O Homem Invisível",
+    "author": "Ralph Ellison",
+    "year": 1952,
+    "description": "Romance sobre identidade e exclusão.",
+    "category": "drama",
+    "cover": "https://picsum.photos/seed/book52/200/300",
+    "tags": [
+      "classico",
+      "social",
+      "drama",
+      "perturbador",
+      "questao_racial"
+    ]
+  },
+  {
+    "id": "53",
+    "title": "A Ilíada",
+    "author": "Homero",
+    "year": -750,
+    "description": "Épico da guerra de Troia.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book53/200/300",
+    "tags": [
+      "classico",
+      "guerra",
+      "mitologia",
+      "epico",
+      "poesia"
+    ]
+  },
+  {
+    "id": "54",
+    "title": "Os Miseráveis",
+    "author": "Victor Hugo",
+    "year": 1862,
+    "description": "Romance social e épico francês.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book54/200/300",
+    "tags": [
+      "classico",
+      "historico",
+      "drama",
+      "virou_filme",
+      "social"
+    ]
+  },
+  {
+    "id": "55",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "description": "Romance gótico e precursor da ficção científica.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book55/200/300",
+    "tags": [
+      "classico",
+      "terror",
+      "ficcao_cientifica",
+      "perturbador",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "56",
+    "title": "O Pequeno Príncipe",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1943,
+    "description": "Fábula poética sobre infância e humanidade.",
+    "category": "childrens",
+    "cover": "https://picsum.photos/seed/book56/200/300",
+    "tags": [
+      "classico",
+      "infantil",
+      "filosofia",
+      "para_iniciantes",
+      "fantasia"
+    ]
+  },
+  {
+    "id": "57",
+    "title": "As Mil e Uma Noites",
+    "author": "Desconhecido",
+    "year": 800,
+    "description": "Coletânea de contos e folclore.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book57/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "contos",
+      "historico",
+      "folclore"
+    ]
+  },
+  {
+    "id": "58",
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "year": 1849,
+    "description": "Romance de formação vitoriano.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book58/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "biografia",
+      "virou_filme",
+      "social"
+    ]
+  },
+  {
+    "id": "59",
+    "title": "Admirável Mundo Novo",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "description": "Distopia científica sobre controle social.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book59/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "distopia",
+      "perturbador",
+      "politica"
+    ]
+  },
+  {
+    "id": "60",
+    "title": "O Senhor das Moscas",
+    "author": "William Golding",
+    "year": 1954,
+    "description": "Romance sobre sobrevivência e violência.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book60/200/300",
+    "tags": [
+      "classico",
+      "suspense",
+      "sobrevivencia",
+      "perturbador",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "61",
+    "title": "O Velho e o Mar",
+    "author": "Ernest Hemingway",
+    "year": 1952,
+    "description": "Pequena epopeia sobre luta e resistência.",
+    "category": "adventure",
+    "cover": "https://picsum.photos/seed/book61/200/300",
+    "tags": [
+      "classico",
+      "aventura",
+      "drama",
+      "para_iniciantes",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "62",
+    "title": "E o Vento Levou",
+    "author": "Margaret Mitchell",
+    "year": 1936,
+    "description": "Romance histórico e épico sulista.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book62/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "guerra",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "63",
+    "title": "A Revolução dos Bichos",
+    "author": "George Orwell",
+    "year": 1945,
+    "description": "Sátira política em forma de fábula.",
+    "category": "satire",
+    "cover": "https://picsum.photos/seed/book63/200/300",
+    "tags": [
+      "classico",
+      "satira",
+      "politica",
+      "para_iniciantes",
+      "distopia"
+    ]
+  },
+  {
+    "id": "64",
+    "title": "O Idiota",
+    "author": "Fiódor Dostoiévski",
+    "year": 1869,
+    "description": "Romance psicológico profundo.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book64/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "psicologico",
+      "tragedia",
+      "romance"
+    ]
+  },
+  {
+    "id": "65",
+    "title": "Drácula",
+    "author": "Bram Stoker",
+    "year": 1897,
+    "description": "Romance gótico sobre vampirismo.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book65/200/300",
+    "tags": [
+      "classico",
+      "terror",
+      "gotico",
+      "virou_filme",
+      "fantasia"
+    ]
+  },
+  {
+    "id": "66",
+    "title": "O Sol Também Se Levanta",
+    "author": "Ernest Hemingway",
+    "year": 1926,
+    "description": "Romance sobre viagem e desilusão.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book66/200/300",
+    "tags": [
+      "classico",
+      "viagem",
+      "romance",
+      "virou_filme",
+      "drama"
+    ]
+  },
+  {
+    "id": "67",
+    "title": "As Viagens de Gulliver",
+    "author": "Jonathan Swift",
+    "year": 1726,
+    "description": "Sátira fantástica sobre a condição humana.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book67/200/300",
+    "tags": [
+      "classico",
+      "satira",
+      "aventura",
+      "fantasia",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "68",
+    "title": "Robinson Crusoé",
+    "author": "Daniel Defoe",
+    "year": 1719,
+    "description": "Clássico de sobrevivência e aventura.",
+    "category": "adventure",
+    "cover": "https://picsum.photos/seed/book68/200/300",
+    "tags": [
+      "classico",
+      "aventura",
+      "sobrevivencia",
+      "virou_filme",
+      "viagem"
+    ]
+  },
+  {
+    "id": "69",
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "year": 1600,
+    "description": "Tragédia teatral sobre vingança.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book69/200/300",
+    "tags": [
+      "classico",
+      "teatro",
+      "tragedia",
+      "virou_filme",
+      "drama"
+    ]
+  },
+  {
+    "id": "70",
+    "title": "A Letra Escarlate",
+    "author": "Nathaniel Hawthorne",
+    "year": 1850,
+    "description": "Romance histórico sobre culpa e sociedade.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book70/200/300",
+    "tags": [
+      "classico",
+      "historico",
+      "drama",
+      "virou_filme",
+      "romance"
+    ]
+  },
+  {
+    "id": "71",
+    "title": "A Metamorfose",
+    "author": "Franz Kafka",
+    "year": 1915,
+    "description": "Conto sobre alienação e transformação.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book71/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "drama",
+      "perturbador",
+      "absurdo"
+    ]
+  },
+  {
+    "id": "72",
+    "title": "O Castelo",
+    "author": "Franz Kafka",
+    "year": 1926,
+    "description": "Romance inacabado sobre burocracia.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book72/200/300",
+    "tags": [
+      "classico",
+      "surrealismo",
+      "burocracia",
+      "perturbador",
+      "inacabado"
+    ]
+  },
+  {
+    "id": "73",
+    "title": "A Peste",
+    "author": "Albert Camus",
+    "year": 1947,
+    "description": "Allegoria sobre resistência humana.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book73/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "drama",
+      "perturbador",
+      "social"
+    ]
+  },
+  {
+    "id": "74",
+    "title": "Cândido",
+    "author": "Voltaire",
+    "year": 1759,
+    "description": "Sátira filosófica e aventura.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book74/200/300",
+    "tags": [
+      "classico",
+      "satira",
+      "filosofia",
+      "para_iniciantes",
+      "aventura"
+    ]
+  },
+  {
+    "id": "75",
+    "title": "Fogo Pálido",
+    "author": "Vladimir Nabokov",
+    "year": 1962,
+    "description": "Romance de linguagem e mistério.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book75/200/300",
+    "tags": [
+      "classico",
+      "poesia",
+      "misterio",
+      "experimental",
+      "metaficcao"
+    ]
+  },
+  {
+    "id": "76",
+    "title": "Matadouro 5",
+    "author": "Kurt Vonnegut",
+    "year": 1969,
+    "description": "Romance anti-guerra e satírico.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book76/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "guerra",
+      "virou_filme",
+      "satira"
+    ]
+  },
+  {
+    "id": "77",
+    "title": "Nada de Novo no Front",
+    "author": "Erich Maria Remarque",
+    "year": 1928,
+    "description": "Romance de guerra e trauma.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book77/200/300",
+    "tags": [
+      "classico",
+      "guerra",
+      "drama",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "78",
+    "title": "O Conde de Monte Cristo",
+    "author": "Alexandre Dumas",
+    "year": 1844,
+    "description": "Saga de vingança e aventura.",
+    "category": "adventure",
+    "cover": "https://picsum.photos/seed/book78/200/300",
+    "tags": [
+      "classico",
+      "aventura",
+      "vinganca",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "79",
+    "title": "O Retrato de Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "description": "Romance sobre beleza e corrupção.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book79/200/300",
+    "tags": [
+      "classico",
+      "terror",
+      "filosofia",
+      "virou_filme",
+      "sobrenatural"
+    ]
+  },
+  {
+    "id": "80",
+    "title": "Mulherzinhas",
+    "author": "Louisa May Alcott",
+    "year": 1868,
+    "description": "Romance familiar e de formação.",
+    "category": "family",
+    "cover": "https://picsum.photos/seed/book80/200/300",
+    "tags": [
+      "classico",
+      "familia",
+      "crescimento",
+      "virou_filme",
+      "drama"
+    ]
+  },
+  {
+    "id": "81",
+    "title": "Fausto",
+    "author": "Johann Wolfgang von Goethe",
+    "year": 1808,
+    "description": "Tragédia filosófica e poética.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book81/200/300",
+    "tags": [
+      "classico",
+      "teatro",
+      "tragedia",
+      "fantasia",
+      "filosofia"
+    ]
+  },
+  {
+    "id": "82",
+    "title": "Emma",
+    "author": "Jane Austen",
+    "year": 1815,
+    "description": "Comédia romântica vitoriana.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book82/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "comedia",
+      "virou_filme",
+      "social"
+    ]
+  },
+  {
+    "id": "83",
+    "title": "Os Demônios",
+    "author": "Fiódor Dostoiévski",
+    "year": 1872,
+    "description": "Romance político e trágico.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book83/200/300",
+    "tags": [
+      "classico",
+      "politica",
+      "tragedia",
+      "perturbador",
+      "drama"
+    ]
+  },
+  {
+    "id": "84",
+    "title": "Contos e Poemas Completos",
+    "author": "Edgar Allan Poe",
+    "year": 1902,
+    "description": "Coleção de terror e mistério.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book84/200/300",
+    "tags": [
+      "classico",
+      "terror",
+      "misterio",
+      "perturbador",
+      "gotico"
+    ]
+  },
+  {
+    "id": "85",
+    "title": "Duna",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "description": "Épico de ficção científica e política.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book85/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "aventura",
+      "virou_filme",
+      "epico"
+    ]
+  },
+  {
+    "id": "86",
+    "title": "Doutor Jivago",
+    "author": "Boris Pasternak",
+    "year": 1957,
+    "description": "Romance histórico e amoroso.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book86/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "historico",
+      "virou_filme",
+      "guerra"
+    ]
+  },
+  {
+    "id": "87",
+    "title": "O Diário de Anne Frank",
+    "author": "Anne Frank",
+    "year": 1947,
+    "description": "Relato íntimo da guerra.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book87/200/300",
+    "tags": [
+      "classico",
+      "biografia",
+      "guerra",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "88",
+    "title": "A Menina e o Porquinho",
+    "author": "E. B. White",
+    "year": 1952,
+    "description": "História infantil e afetuosa.",
+    "category": "childrens",
+    "cover": "https://picsum.photos/seed/book88/200/300",
+    "tags": [
+      "classico",
+      "infantil",
+      "fantasia",
+      "virou_filme",
+      "amizade"
+    ]
+  },
+  {
+    "id": "89",
+    "title": "A Redoma de Vidro",
+    "author": "Sylvia Plath",
+    "year": 1963,
+    "description": "Romance psicológico e intenso.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book89/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "psicologico",
+      "perturbador",
+      "feminismo"
+    ]
+  },
+  {
+    "id": "90",
+    "title": "Os Três Mosqueteiros",
+    "author": "Alexandre Dumas",
+    "year": 1844,
+    "description": "Aventura clássica e camaradagem.",
+    "category": "adventure",
+    "cover": "https://picsum.photos/seed/book90/200/300",
+    "tags": [
+      "classico",
+      "aventura",
+      "historico",
+      "virou_filme",
+      "acao"
+    ]
+  },
+  {
+    "id": "91",
+    "title": "O Nome da Rosa",
+    "author": "Umberto Eco",
+    "year": 1980,
+    "description": "Mistério medieval e erudição.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book91/200/300",
+    "tags": [
+      "classico",
+      "misterio",
+      "historico",
+      "virou_filme",
+      "filosofia"
+    ]
+  },
+  {
+    "id": "92",
+    "title": "Confissões",
+    "author": "Santo Agostinho",
+    "year": 397,
+    "description": "Autobiografia e reflexão religiosa.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book92/200/300",
+    "tags": [
+      "classico",
+      "religiao",
+      "biografia",
+      "filosofia",
+      "historico"
+    ]
+  },
+  {
+    "id": "93",
+    "title": "Paraíso Perdido",
+    "author": "John Milton",
+    "year": 1667,
+    "description": "Poema épico teológico.",
+    "category": "poetry",
+    "cover": "https://picsum.photos/seed/book93/200/300",
+    "tags": [
+      "classico",
+      "poesia",
+      "epico",
+      "fantasia",
+      "religiao"
+    ]
+  },
+  {
+    "id": "94",
+    "title": "O Príncipe",
+    "author": "Nicolau Maquiavel",
+    "year": 1532,
+    "description": "Ensaio político clássico.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book94/200/300",
+    "tags": [
+      "classico",
+      "politica",
+      "filosofia",
+      "para_iniciantes",
+      "historico"
+    ]
+  },
+  {
+    "id": "95",
+    "title": "Um Estranho no Ninho",
+    "author": "Ken Kesey",
+    "year": 1962,
+    "description": "Romance sobre instituições e rebelião.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book95/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "psicologico",
+      "virou_filme",
+      "social"
+    ]
+  },
+  {
+    "id": "96",
+    "title": "Laranja Mecânica",
+    "author": "Anthony Burgess",
+    "year": 1962,
+    "description": "Distopia sobre violência e controle.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book96/200/300",
+    "tags": [
+      "classico",
+      "distopia",
+      "ficcao_cientifica",
+      "perturbador",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "97",
+    "title": "O Conto da Aia",
+    "author": "Margaret Atwood",
+    "year": 1985,
+    "description": "Distopia feminista e perturbadora.",
+    "category": "distopia",
+    "cover": "https://picsum.photos/seed/book97/200/300",
+    "tags": [
+      "classico",
+      "distopia",
+      "feminismo",
+      "perturbador",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "98",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "description": "Romance sobre censura e livros.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book98/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "distopia",
+      "virou_filme",
+      "politica"
+    ]
+  },
+  {
+    "id": "99",
+    "title": "O Hobbit",
+    "author": "J. R. R. Tolkien",
+    "year": 1937,
+    "description": "Aventura iniciática na Terra Média.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book99/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "aventura",
+      "virou_filme",
+      "infantil"
+    ]
+  },
+  {
+    "id": "100",
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "year": 1606,
+    "description": "Tragédia sobre ambição e culpa.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book100/200/300",
+    "tags": [
+      "classico",
+      "teatro",
+      "tragedia",
+      "virou_filme",
+      "sobrenatural"
+    ]
+  },
+  {
+    "id": "101",
+    "title": "O Cão dos Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "year": 1902,
+    "description": "Mistério detectivesco atmosférico.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book101/200/300",
+    "tags": [
+      "classico",
+      "misterio",
+      "detetive",
+      "virou_filme",
+      "gotico"
+    ]
+  },
+  {
+    "id": "102",
+    "title": "O Ursinho Pooh",
+    "author": "A. A. Milne",
+    "year": 1926,
+    "description": "Histórias infantis e afetuosas.",
+    "category": "childrens",
+    "cover": "https://picsum.photos/seed/book102/200/300",
+    "tags": [
+      "classico",
+      "infantil",
+      "amizade",
+      "fantasia",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "103",
+    "title": "A Cor Púrpura",
+    "author": "Alice Walker",
+    "year": 1982,
+    "description": "Romance sobre luta social e dignidade.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book103/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "questao_racial",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "104",
+    "title": "A Interpretação dos Sonhos",
+    "author": "Sigmund Freud",
+    "year": 1899,
+    "description": "Obrafundacional da psicanálise.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book104/200/300",
+    "tags": [
+      "classico",
+      "psicologia",
+      "ciencia",
+      "nao_ficcao",
+      "historico"
+    ]
+  },
+  {
+    "id": "105",
+    "title": "Ratos e Homens",
+    "author": "John Steinbeck",
+    "year": 1937,
+    "description": "Novela sobre amizade e tragédia.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book105/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "amizade",
+      "virou_filme",
+      "tragedia"
+    ]
+  },
+  {
+    "id": "106",
+    "title": "A Origem das Espécies",
+    "author": "Charles Darwin",
+    "year": 1859,
+    "description": "Marco da biologia evolucionária.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book106/200/300",
+    "tags": [
+      "classico",
+      "ciencia",
+      "evolucao",
+      "nao_ficcao",
+      "historico"
+    ]
+  },
+  {
+    "id": "107",
+    "title": "As Flores do Mal",
+    "author": "Charles Baudelaire",
+    "year": 1857,
+    "description": "Poesia simbolista e controversa.",
+    "category": "poetry",
+    "cover": "https://picsum.photos/seed/book107/200/300",
+    "tags": [
+      "classico",
+      "poesia",
+      "simbolismo",
+      "perturbador",
+      "gotico"
+    ]
+  },
+  {
+    "id": "108",
+    "title": "A Cabana do Pai Tomás",
+    "author": "Harriet Beecher Stowe",
+    "year": 1852,
+    "description": "Romance histórico sobre escravidão.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book108/200/300",
+    "tags": [
+      "classico",
+      "historico",
+      "escravidao",
+      "drama",
+      "social"
+    ]
+  },
+  {
+    "id": "109",
+    "title": "Um Teto Todo Seu",
+    "author": "Virginia Woolf",
+    "year": 1929,
+    "description": "Ensaio sobre mulheres e escrita.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book109/200/300",
+    "tags": [
+      "classico",
+      "ensaio",
+      "feminismo",
+      "para_iniciantes",
+      "social"
+    ]
+  },
+  {
+    "id": "110",
+    "title": "O Amante de Lady Chatterley",
+    "author": "D. H. Lawrence",
+    "year": 1928,
+    "description": "Romance controverso e sensual.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book110/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "erotico",
+      "virou_filme",
+      "drama"
+    ]
+  },
+  {
+    "id": "111",
+    "title": "E Não Sobrou Nenhum",
+    "author": "Agatha Christie",
+    "year": 1939,
+    "description": "Mistério clássico e engenhoso.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book111/200/300",
+    "tags": [
+      "classico",
+      "misterio",
+      "crime",
+      "virou_filme",
+      "para_iniciantes"
+    ]
+  },
+  {
+    "id": "112",
+    "title": "Livro do Desassossego",
+    "author": "Fernando Pessoa",
+    "year": 1982,
+    "description": "Obra fragmentária e poética.",
+    "category": "poetry",
+    "cover": "https://picsum.photos/seed/book112/200/300",
+    "tags": [
+      "classico",
+      "poesia",
+      "diario",
+      "filosofia",
+      "experimental"
+    ]
+  },
+  {
+    "id": "113",
+    "title": "O Guia do Mochileiro das Galáxias",
+    "author": "Douglas Adams",
+    "year": 1979,
+    "description": "Ficção científica bem-humorada.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book113/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "humor",
+      "virou_filme",
+      "fantasia"
+    ]
+  },
+  {
+    "id": "114",
+    "title": "Sherlock Holmes (Obra Completa)",
+    "author": "Arthur Conan Doyle",
+    "year": 1927,
+    "description": "Coleção das aventuras do detetive.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book114/200/300",
+    "tags": [
+      "classico",
+      "detetive",
+      "misterio",
+      "virou_filme",
+      "contos"
+    ]
+  },
+  {
+    "id": "115",
+    "title": "A Assombração da Casa da Colina",
+    "author": "Shirley Jackson",
+    "year": 1959,
+    "description": "Romance de terror claustrofóbico.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book115/200/300",
+    "tags": [
+      "classico",
+      "terror",
+      "sobrenatural",
+      "perturbador",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "116",
+    "title": "Meridiano de Sangue",
+    "author": "Cormac McCarthy",
+    "year": 1985,
+    "description": "Prosa densa e violenta do Oeste.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book116/200/300",
+    "tags": [
+      "classico",
+      "faroeste",
+      "violencia",
+      "perturbador",
+      "historico"
+    ]
+  },
+  {
+    "id": "117",
+    "title": "Assim Falou Zaratustra",
+    "author": "Friedrich Nietzsche",
+    "year": 1883,
+    "description": "Obra filosófica poética e influente.",
+    "category": "philosophy",
+    "cover": "https://picsum.photos/seed/book117/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "poesia",
+      "espiritualidade",
+      "existencialismo"
+    ]
+  },
+  {
+    "id": "118",
+    "title": "O Médico e o Monstro",
+    "author": "Robert Louis Stevenson",
+    "year": 1886,
+    "description": "Dualidade humana em romance gótico.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book118/200/300",
+    "tags": [
+      "classico",
+      "terror",
+      "ficcao_cientifica",
+      "virou_filme",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "119",
+    "title": "As Crônicas de Nárnia",
+    "author": "C. S. Lewis",
+    "year": 1950,
+    "description": "Série fantástica para todas as idades.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book119/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "infantil",
+      "virou_filme",
+      "aventura"
+    ]
+  },
+  {
+    "id": "120",
+    "title": "A Morte de Virgílio",
+    "author": "Hermann Broch",
+    "year": 1945,
+    "description": "Romance modernista e poético.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book120/200/300",
+    "tags": [
+      "classico",
+      "modernismo",
+      "poetico",
+      "historico",
+      "filosofico"
+    ]
+  },
+  {
+    "id": "121",
+    "title": "Persuasão",
+    "author": "Jane Austen",
+    "year": 1817,
+    "description": "Romance vitoriano sobre segundas chances.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book121/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "drama",
+      "virou_filme",
+      "historico"
+    ]
+  },
+  {
+    "id": "122",
+    "title": "O Poderoso Chefão",
+    "author": "Mario Puzo",
+    "year": 1969,
+    "description": "Saga sobre máfia e poder.",
+    "category": "crime",
+    "cover": "https://picsum.photos/seed/book122/200/300",
+    "tags": [
+      "classico",
+      "crime",
+      "mafia",
+      "virou_filme",
+      "drama"
+    ]
+  },
+  {
+    "id": "123",
+    "title": "As Aventuras de Tom Sawyer",
+    "author": "Mark Twain",
+    "year": 1876,
+    "description": "Aventuras infantis e humorísticas.",
+    "category": "adventure",
+    "cover": "https://picsum.photos/seed/book123/200/300",
+    "tags": [
+      "classico",
+      "aventura",
+      "infantil",
+      "virou_filme",
+      "comedia"
+    ]
+  },
+  {
+    "id": "124",
+    "title": "O Assassinato de Roger Ackroyd",
+    "author": "Agatha Christie",
+    "year": 1926,
+    "description": "Mistério clássico com reviravolta.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book124/200/300",
+    "tags": [
+      "classico",
+      "misterio",
+      "policial",
+      "virou_filme",
+      "suspense"
+    ]
+  },
+  {
+    "id": "125",
+    "title": "Harry Potter e a Pedra Filosofal",
+    "author": "J. K. Rowling",
+    "year": 1997,
+    "description": "Primeiro volume da saga de Hogwarts.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book125/200/300",
+    "tags": [
+      "fantasia",
+      "jovem_adulto",
+      "virou_filme",
+      "para_iniciantes",
+      "aventura"
+    ]
+  },
+  {
+    "id": "126",
+    "title": "A Epopeia de Gilgamesh",
+    "author": "Desconhecido",
+    "year": -2100,
+    "description": "Um dos épicos mais antigos da humanidade.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book126/200/300",
+    "tags": [
+      "classico",
+      "mitologia",
+      "epico",
+      "aventura",
+      "poesia"
+    ]
+  },
+  {
+    "id": "127",
+    "title": "Morte em Veneza",
+    "author": "Thomas Mann",
+    "year": 1912,
+    "description": "Novela sobre desejo e decadência.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book127/200/300",
+    "tags": [
+      "classico",
+      "novela",
+      "drama",
+      "virou_filme",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "128",
+    "title": "Anne de Green Gables",
+    "author": "L. M. Montgomery",
+    "year": 1908,
+    "description": "Romance infantil sobre crescimento.",
+    "category": "childrens",
+    "cover": "https://picsum.photos/seed/book128/200/300",
+    "tags": [
+      "classico",
+      "infantil",
+      "drama",
+      "virou_filme",
+      "crescimento"
+    ]
+  },
+  {
+    "id": "129",
+    "title": "Grande Sertão: Veredas",
+    "author": "João Guimarães Rosa",
+    "year": 1956,
+    "description": "Romance brasileiro experimental e filosófico.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book129/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "experimental",
+      "aventura",
+      "filosofia"
+    ]
+  },
+  {
+    "id": "130",
+    "title": "As Confissões",
+    "author": "Jean-Jacques Rousseau",
+    "year": 1782,
+    "description": "Autobiografia e reflexão filosófica.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book130/200/300",
+    "tags": [
+      "classico",
+      "autobiografia",
+      "filosofia",
+      "historico",
+      "memorias"
+    ]
+  },
+  {
+    "id": "131",
+    "title": "A Longa Jornada",
+    "author": "Richard Adams",
+    "year": 1972,
+    "description": "Fantasia sobre uma jornada épica de animais.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book131/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "aventura",
+      "virou_filme",
+      "animais"
+    ]
+  },
+  {
+    "id": "132",
+    "title": "A Dança da Morte",
+    "author": "Stephen King",
+    "year": 1978,
+    "description": "Romance pós-apocalíptico aterrador.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book132/200/300",
+    "tags": [
+      "terror",
+      "pos_apocaliptico",
+      "perturbador",
+      "virou_filme",
+      "fantasia"
+    ]
+  },
+  {
+    "id": "133",
+    "title": "Memórias Póstumas de Brás Cubas",
+    "author": "Machado de Assis",
+    "year": 1881,
+    "description": "Romance brasileiro satírico e inovador.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book133/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "satira",
+      "realismo",
+      "fantastico"
+    ]
+  },
+  {
+    "id": "134",
+    "title": "As Ondas",
+    "author": "Virginia Woolf",
+    "year": 1931,
+    "description": "Romance experimental e poético.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book134/200/300",
+    "tags": [
+      "classico",
+      "modernismo",
+      "poetico",
+      "experimental",
+      "drama"
+    ]
+  },
+  {
+    "id": "135",
+    "title": "Não Me Abandone Jamais",
+    "author": "Kazuo Ishiguro",
+    "year": 2005,
+    "description": "Distopia e tragédia emocional.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book135/200/300",
+    "tags": [
+      "ficcao_cientifica",
+      "drama",
+      "perturbador",
+      "virou_filme",
+      "distopia"
+    ]
+  },
+  {
+    "id": "136",
+    "title": "A Máquina do Tempo",
+    "author": "H. G. Wells",
+    "year": 1895,
+    "description": "Viagem no tempo e crítica social.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book136/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "viagem_no_tempo",
+      "virou_filme",
+      "aventura"
+    ]
+  },
+  {
+    "id": "137",
+    "title": "Peter e Wendy",
+    "author": "J. M. Barrie",
+    "year": 1911,
+    "description": "História de Peter Pan e infância.",
+    "category": "childrens",
+    "cover": "https://picsum.photos/seed/book137/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "infantil",
+      "virou_filme",
+      "aventura"
+    ]
+  },
+  {
+    "id": "138",
+    "title": "A Teoria da Relatividade",
+    "author": "Albert Einstein",
+    "year": 1916,
+    "description": "Texto científico fundacional.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book138/200/300",
+    "tags": [
+      "classico",
+      "ciencia",
+      "fisica",
+      "nao_ficcao",
+      "educacao"
+    ]
+  },
+  {
+    "id": "139",
+    "title": "Pensamentos",
+    "author": "Blaise Pascal",
+    "year": 1670,
+    "description": "Coletânea de reflexões filosóficas.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book139/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "teologia",
+      "religiao",
+      "ensaio"
+    ]
+  },
+  {
+    "id": "140",
+    "title": "Onde Vivem os Monstros",
+    "author": "Maurice Sendak",
+    "year": 1963,
+    "description": "Livro infantil sobre imaginação.",
+    "category": "childrens",
+    "cover": "https://picsum.photos/seed/book140/200/300",
+    "tags": [
+      "classico",
+      "infantil",
+      "fantasia",
+      "virou_filme",
+      "ilustrado"
+    ]
+  },
+  {
+    "id": "141",
+    "title": "A História Secreta",
+    "author": "Donna Tartt",
+    "year": 1992,
+    "description": "Suspense acadêmico e perturbador.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book141/200/300",
+    "tags": [
+      "suspense",
+      "drama",
+      "perturbador",
+      "crime",
+      "academico"
+    ]
+  },
+  {
+    "id": "142",
+    "title": "O Manifesto Comunista",
+    "author": "Karl Marx, Friedrich Engels",
+    "year": 1848,
+    "description": "Texto político e influente.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book142/200/300",
+    "tags": [
+      "classico",
+      "politica",
+      "filosofia",
+      "historico",
+      "social"
+    ]
+  },
+  {
+    "id": "143",
+    "title": "Solaris",
+    "author": "Stanislaw Lem",
+    "year": 1961,
+    "description": "Ficção científica filosófica sobre o desconhecido.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book143/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "psicologico",
+      "virou_filme",
+      "filosofico"
+    ]
+  },
+  {
+    "id": "144",
+    "title": "Contos de Grimm",
+    "author": "Irmãos Grimm",
+    "year": 1812,
+    "description": "Coleção de contos folclóricos.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book144/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "contos",
+      "folclore",
+      "perturbador"
+    ]
+  },
+  {
+    "id": "145",
+    "title": "A Estrada",
+    "author": "Cormac McCarthy",
+    "year": 2006,
+    "description": "Romance pós-apocalíptico e comovente.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book145/200/300",
+    "tags": [
+      "ficcao_cientifica",
+      "pos_apocaliptico",
+      "drama",
+      "perturbador",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "146",
+    "title": "O Capital",
+    "author": "Karl Marx",
+    "year": 1867,
+    "description": "Análise econômica e social.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book146/200/300",
+    "tags": [
+      "classico",
+      "economia",
+      "politica",
+      "social",
+      "historico"
+    ]
+  },
+  {
+    "id": "147",
+    "title": "Romeu e Julieta",
+    "author": "William Shakespeare",
+    "year": 1597,
+    "description": "Tragédia romântica universal.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book147/200/300",
+    "tags": [
+      "classico",
+      "teatro",
+      "romance",
+      "tragedia",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "148",
+    "title": "O Mágico de Oz",
+    "author": "L. Frank Baum",
+    "year": 1900,
+    "description": "Fantasia infantil duradoura.",
+    "category": "childrens",
+    "cover": "https://picsum.photos/seed/book148/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "infantil",
+      "virou_filme",
+      "aventura"
+    ]
+  },
+  {
+    "id": "149",
+    "title": "Leviatã",
+    "author": "Thomas Hobbes",
+    "year": 1651,
+    "description": "Tratado político clássico.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book149/200/300",
+    "tags": [
+      "classico",
+      "politica",
+      "filosofia",
+      "social",
+      "historico"
+    ]
+  },
+  {
+    "id": "150",
+    "title": "A Morte de Ivan Ilitch",
+    "author": "Liev Tolstói",
+    "year": 1886,
+    "description": "Novela sobre a finitude e sentido da vida.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book150/200/300",
+    "tags": [
+      "classico",
+      "novela",
+      "filosofia",
+      "drama",
+      "para_iniciantes"
+    ]
+  },
+  {
+    "id": "151",
+    "title": "Memórias do Subsolo",
+    "author": "Fiódor Dostoiévski",
+    "year": 1864,
+    "description": "Romance existencial e perturbador.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book151/200/300",
+    "tags": [
+      "classico",
+      "existencialismo",
+      "filosofia",
+      "perturbador",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "152",
+    "title": "Fundação",
+    "author": "Isaac Asimov",
+    "year": 1951,
+    "description": "Épico de ficção científica sobre civilizações.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book152/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "epico",
+      "virou_filme",
+      "politica"
+    ]
+  },
+  {
+    "id": "153",
+    "title": "Jornada ao Oeste",
+    "author": "Wu Cheng'en",
+    "year": 1592,
+    "description": "Clássico mitológico oriental.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book153/200/300",
+    "tags": [
+      "classico",
+      "mitologia",
+      "aventura",
+      "fantasia",
+      "oriental"
+    ]
+  },
+  {
+    "id": "154",
+    "title": "A Guerra dos Mundos",
+    "author": "H. G. Wells",
+    "year": 1898,
+    "description": "Invasão alienígena e pânico.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book154/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "invasao",
+      "terror",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "155",
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "year": 1837,
+    "description": "Crítica social vitoriana em romance.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book155/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "social",
+      "aventura",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "156",
+    "title": "O Iluminado",
+    "author": "Stephen King",
+    "year": 1977,
+    "description": "Terror psicológico em hotel isolado.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book156/200/300",
+    "tags": [
+      "terror",
+      "sobrenatural",
+      "perturbador",
+      "virou_filme",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "157",
+    "title": "O Mito de Sísifo",
+    "author": "Albert Camus",
+    "year": 1942,
+    "description": "Ensaio sobre o absurdo e a condição humana.",
+    "category": "philosophy",
+    "cover": "https://picsum.photos/seed/book157/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "ensaio",
+      "absurdismo",
+      "existencialismo"
+    ]
+  },
+  {
+    "id": "158",
+    "title": "O Alquimista",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "description": "Fábula espiritual e de jornada.",
+    "category": "beginners",
+    "cover": "https://picsum.photos/seed/book158/200/300",
+    "tags": [
+      "para_iniciantes",
+      "aventura",
+      "espiritualidade",
+      "fantasia",
+      "brasileiro"
+    ]
+  },
+  {
+    "id": "159",
+    "title": "Assassinato no Expresso do Oriente",
+    "author": "Agatha Christie",
+    "year": 1934,
+    "description": "Mistério clássico em trem isolado.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book159/200/300",
+    "tags": [
+      "classico",
+      "misterio",
+      "detetive",
+      "virou_filme",
+      "para_iniciantes"
+    ]
+  },
+  {
+    "id": "160",
+    "title": "Casa de Bonecas",
+    "author": "Henrik Ibsen",
+    "year": 1879,
+    "description": "Peça sobre autonomia e crítica social.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book160/200/300",
+    "tags": [
+      "classico",
+      "teatro",
+      "drama",
+      "feminismo",
+      "para_iniciantes"
+    ]
+  },
+  {
+    "id": "161",
+    "title": "O Corcunda de Notre Dame",
+    "author": "Victor Hugo",
+    "year": 1831,
+    "description": "Romance histórico e trágico.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book161/200/300",
+    "tags": [
+      "classico",
+      "historico",
+      "romance",
+      "virou_filme",
+      "tragedia"
+    ]
+  },
+  {
+    "id": "162",
+    "title": "Bartleby, o Escrivão",
+    "author": "Herman Melville",
+    "year": 1853,
+    "description": "Conto sobre resistência passiva e trabalho.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book162/200/300",
+    "tags": [
+      "classico",
+      "contos",
+      "absurdo",
+      "para_iniciantes",
+      "trabalho"
+    ]
+  },
+  {
+    "id": "163",
+    "title": "Crítica da Razão Pura",
+    "author": "Immanuel Kant",
+    "year": 1781,
+    "description": "Trabalho filosófico fundacional.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book163/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "metafisica",
+      "nao_ficcao",
+      "academico"
+    ]
+  },
+  {
+    "id": "164",
+    "title": "Razão e Sensibilidade",
+    "author": "Jane Austen",
+    "year": 1811,
+    "description": "Romance vitoriano sobre contraste emocional.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book164/200/300",
+    "tags": [
+      "classico",
+      "romance",
+      "drama",
+      "virou_filme",
+      "comedia"
+    ]
+  },
+  {
+    "id": "165",
+    "title": "O Alcorão",
+    "author": "Desconhecido",
+    "year": 610,
+    "description": "Texto sagrado do islamismo.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book165/200/300",
+    "tags": [
+      "classico",
+      "religiao",
+      "sagrado",
+      "historico",
+      "espiritualidade"
+    ]
+  },
+  {
+    "id": "166",
+    "title": "O Mar, o Mar",
+    "author": "Iris Murdoch",
+    "year": 1978,
+    "description": "Romance psicológico e obsessivo.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book166/200/300",
+    "tags": [
+      "classico",
+      "drama",
+      "romance",
+      "obsessao",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "167",
+    "title": "Dom Casmurro",
+    "author": "Machado de Assis",
+    "year": 1899,
+    "description": "Romance brasileiro sobre ciúme e dúvida.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book167/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "realismo",
+      "para_iniciantes",
+      "ciume"
+    ]
+  },
+  {
+    "id": "168",
+    "title": "A Hora da Estrela",
+    "author": "Clarice Lispector",
+    "year": 1977,
+    "description": "Romance breve e introspectivo.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book168/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "drama",
+      "introspectivo",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "169",
+    "title": "Vidas Secas",
+    "author": "Graciliano Ramos",
+    "year": 1938,
+    "description": "Romance social nordestino.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book169/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "drama_social",
+      "virou_filme",
+      "regionalismo"
+    ]
+  },
+  {
+    "id": "170",
+    "title": "Capitães da Areia",
+    "author": "Jorge Amado",
+    "year": 1937,
+    "description": "Romance sobre meninos de rua.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book170/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "aventura",
+      "social",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "171",
+    "title": "O Cortiço",
+    "author": "Aluísio Azevedo",
+    "year": 1890,
+    "description": "Romance naturalista sobre comunidade urbana.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book171/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "naturalismo",
+      "perturbador",
+      "drama"
+    ]
+  },
+  {
+    "id": "172",
+    "title": "Triste Fim de Policarpo Quaresma",
+    "author": "Lima Barreto",
+    "year": 1915,
+    "description": "Sátira nacionalista e crítica social.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book172/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "satira",
+      "historico",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "173",
+    "title": "Quarto de Despejo",
+    "author": "Carolina Maria de Jesus",
+    "year": 1960,
+    "description": "Diário social e denúncia.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book173/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "biografia",
+      "social",
+      "perturbador"
+    ]
+  },
+  {
+    "id": "174",
+    "title": "Macunaíma",
+    "author": "Mário de Andrade",
+    "year": 1928,
+    "description": "Obra modernista brasileira e folclórica.",
+    "category": "classics",
+    "cover": "https://picsum.photos/seed/book174/200/300",
+    "tags": [
+      "classico",
+      "brasileiro",
+      "modernismo",
+      "fantasia",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "175",
+    "title": "Ensaio Sobre a Cegueira",
+    "author": "José Saramago",
+    "year": 1995,
+    "description": "Distopia alegórica e social.",
+    "category": "distopia",
+    "cover": "https://picsum.photos/seed/book175/200/300",
+    "tags": [
+      "classico",
+      "distopia",
+      "drama",
+      "perturbador",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "176",
+    "title": "Clube da Luta",
+    "author": "Chuck Palahniuk",
+    "year": 1996,
+    "description": "Sátira contemporânea e violenta.",
+    "category": "satire",
+    "cover": "https://picsum.photos/seed/book176/200/300",
+    "tags": [
+      "satira",
+      "psicologico",
+      "perturbador",
+      "virou_filme",
+      "drama"
+    ]
+  },
+  {
+    "id": "177",
+    "title": "O Apanhador de Pipas",
+    "author": "Khaled Hosseini",
+    "year": 2003,
+    "description": "Drama histórico sobre amizade e culpa.",
+    "category": "drama",
+    "cover": "https://picsum.photos/seed/book177/200/300",
+    "tags": [
+      "drama",
+      "historico",
+      "virou_filme",
+      "para_iniciantes",
+      "guerra"
+    ]
+  },
+  {
+    "id": "178",
+    "title": "A Menina que Roubava Livros",
+    "author": "Markus Zusak",
+    "year": 2005,
+    "description": "História ambientada na Segunda Guerra.",
+    "category": "historical",
+    "cover": "https://picsum.photos/seed/book178/200/300",
+    "tags": [
+      "historico",
+      "drama",
+      "virou_filme",
+      "jovem_adulto",
+      "guerra"
+    ]
+  },
+  {
+    "id": "179",
+    "title": "Precisamos Falar Sobre o Kevin",
+    "author": "Lionel Shriver",
+    "year": 2003,
+    "description": "Romance perturbador sobre maternidade e violência.",
+    "category": "drama",
+    "cover": "https://picsum.photos/seed/book179/200/300",
+    "tags": [
+      "drama",
+      "suspense",
+      "perturbador",
+      "virou_filme",
+      "familia"
+    ]
+  },
+  {
+    "id": "180",
+    "title": "O Perfume",
+    "author": "Patrick Süskind",
+    "year": 1985,
+    "description": "Suspense histórico sobre obsessão olfativa.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book180/200/300",
+    "tags": [
+      "suspense",
+      "historico",
+      "perturbador",
+      "virou_filme",
+      "crime"
+    ]
+  },
+  {
+    "id": "181",
+    "title": "Sapiens: Uma Breve História da Humanidade",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "description": "Panorama histórico e científico.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book181/200/300",
+    "tags": [
+      "para_iniciantes",
+      "historia",
+      "ciencia",
+      "nao_ficcao",
+      "antropologia"
+    ]
+  },
+  {
+    "id": "182",
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "year": 1984,
+    "description": "Pioneiro do cyberpunk.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book182/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "cyberpunk",
+      "acao",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": "183",
+    "title": "Eu, Robô",
+    "author": "Isaac Asimov",
+    "year": 1950,
+    "description": "Contos fundamentais de robótica.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book183/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "contos",
+      "virou_filme",
+      "robotica"
+    ]
+  },
+  {
+    "id": "184",
+    "title": "2001: Uma Odisseia no Espaço",
+    "author": "Arthur C. Clarke",
+    "year": 1968,
+    "description": "Clássico da ficção científica espacial.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book184/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "espaco",
+      "virou_filme",
+      "evolucao"
+    ]
+  },
+  {
+    "id": "185",
+    "title": "It: A Coisa",
+    "author": "Stephen King",
+    "year": 1986,
+    "description": "Terror sobre infância e retorno do mal.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book185/200/300",
+    "tags": [
+      "terror",
+      "sobrenatural",
+      "perturbador",
+      "virou_filme",
+      "amizade"
+    ]
+  },
+  {
+    "id": "186",
+    "title": "O Silmarillion",
+    "author": "J. R. R. Tolkien",
+    "year": 1977,
+    "description": "Mitologia da Terra Média.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book186/200/300",
+    "tags": [
+      "classico",
+      "fantasia",
+      "mitologia",
+      "epico",
+      "historico"
+    ]
+  },
+  {
+    "id": "187",
+    "title": "Deuses Americanos",
+    "author": "Neil Gaiman",
+    "year": 2001,
+    "description": "Fantasia contemporânea sobre mitologias.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book187/200/300",
+    "tags": [
+      "fantasia",
+      "mitologia",
+      "virou_filme",
+      "aventura",
+      "road_trip"
+    ]
+  },
+  {
+    "id": "188",
+    "title": "A Guerra dos Tronos",
+    "author": "George R. R. Martin",
+    "year": 1996,
+    "description": "Política e fantasia épica.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book188/200/300",
+    "tags": [
+      "fantasia",
+      "politica",
+      "virou_filme",
+      "epico",
+      "aventura"
+    ]
+  },
+  {
+    "id": "189",
+    "title": "Jogos Vorazes",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "description": "Distopia jovem e ação.",
+    "category": "distopia",
+    "cover": "https://picsum.photos/seed/book189/200/300",
+    "tags": [
+      "distopia",
+      "jovem_adulto",
+      "virou_filme",
+      "acao",
+      "para_iniciantes"
+    ]
+  },
+  {
+    "id": "190",
+    "title": "O Silêncio dos Inocentes",
+    "author": "Thomas Harris",
+    "year": 1988,
+    "description": "Suspense psicológico e criminal.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book190/200/300",
+    "tags": [
+      "suspense",
+      "crime",
+      "perturbador",
+      "virou_filme",
+      "policial"
+    ]
+  },
+  {
+    "id": "191",
+    "title": "Entrevista com o Vampiro",
+    "author": "Anne Rice",
+    "year": 1976,
+    "description": "Romance gótico sobre imortalidade.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book191/200/300",
+    "tags": [
+      "classico",
+      "terror",
+      "gotico",
+      "virou_filme",
+      "fantasia"
+    ]
+  },
+  {
+    "id": "192",
+    "title": "Psicose",
+    "author": "Robert Bloch",
+    "year": 1959,
+    "description": "Thriller que inspirou filme icônico.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book192/200/300",
+    "tags": [
+      "classico",
+      "terror",
+      "suspense",
+      "perturbador",
+      "virou_filme"
+    ]
+  },
+  {
+    "id": "193",
+    "title": "A Arte da Guerra",
+    "author": "Sun Tzu",
+    "year": -500,
+    "description": "Tratado estratégico milenar.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book193/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "estrategia",
+      "para_iniciantes",
+      "historico"
+    ]
+  },
+  {
+    "id": "194",
+    "title": "O Banquete",
+    "author": "Platão",
+    "year": -380,
+    "description": "Diálogos sobre amor e filosofia.",
+    "category": "philosophy",
+    "cover": "https://picsum.photos/seed/book194/200/300",
+    "tags": [
+      "classico",
+      "filosofia",
+      "dialogos",
+      "amor",
+      "historico"
+    ]
+  },
+  {
+    "id": "195",
+    "title": "Pachinko",
+    "author": "Min Jin Lee",
+    "year": 2017,
+    "description": "Saga familiar sobre imigração.",
+    "category": "drama",
+    "cover": "https://picsum.photos/seed/book195/200/300",
+    "tags": [
+      "drama",
+      "historico",
+      "saga_familiar",
+      "virou_filme",
+      "imigracao"
+    ]
+  },
+  {
+    "id": "196",
+    "title": "Misery: Louca Obsessão",
+    "author": "Stephen King",
+    "year": 1987,
+    "description": "Terror psicológico sobre fã obcecado.",
+    "category": "horror",
+    "cover": "https://picsum.photos/seed/book196/200/300",
+    "tags": [
+      "terror",
+      "suspense",
+      "perturbador",
+      "virou_filme",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "197",
+    "title": "Flores para Algernon",
+    "author": "Daniel Keyes",
+    "year": 1959,
+    "description": "Romance científico e emocional.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book197/200/300",
+    "tags": [
+      "classico",
+      "ficcao_cientifica",
+      "drama",
+      "perturbador",
+      "psicologico"
+    ]
+  },
+  {
+    "id": "198",
+    "title": "Pessoas Normais",
+    "author": "Sally Rooney",
+    "year": 2018,
+    "description": "Romance contemporâneo sobre relações.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book198/200/300",
+    "tags": [
+      "romance",
+      "drama",
+      "contemporaneo",
+      "virou_filme",
+      "jovem_adulto"
+    ]
+  },
+  {
+    "id": "199",
+    "title": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "year": 2022,
+    "description": "Romance social contemporâneo.",
+    "category": "drama",
+    "cover": "https://picsum.photos/seed/book199/200/300",
+    "tags": [
+      "drama",
+      "social",
+      "retelling",
+      "moderno",
+      "vicio"
+    ]
+  },
+  {
+    "id": "200",
+    "title": "Devoradores de Estrelas",
+    "author": "Andy Weir",
+    "year": 2021,
+    "description": "Ficção científica de aventura espacial.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book200/200/300",
+    "tags": [
+      "ficcao_cientifica",
+      "aventura",
+      "espaco",
+      "humor",
+      "ciencia"
+    ]
+  },
+  {
+    "id": "201",
+    "title": "A Biblioteca da Meia-Noite",
+    "author": "Matt Haig",
+    "year": 2020,
+    "description": "Fantasia contemporânea sobre escolhas de vida.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book201/200/300",
+    "tags": [
+      "fantasia",
+      "drama",
+      "para_iniciantes",
+      "autoajuda",
+      "contemporaneo"
+    ]
+  },
+  {
+    "id": "202",
+    "title": "Matéria Escura",
+    "author": "Blake Crouch",
+    "year": 2016,
+    "description": "Suspense de ficção científica sobre multiverso.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book202/200/300",
+    "tags": [
+      "ficcao_cientifica",
+      "suspense",
+      "virou_filme",
+      "multiverso",
+      "acao"
+    ]
+  },
+  {
+    "id": "203",
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "year": 2020,
+    "description": "Fantasia e mistério em ambiente labiríntico.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book203/200/300",
+    "tags": [
+      "fantasia",
+      "misterio",
+      "labirinto",
+      "mitologia",
+      "realismo_magico"
+    ]
+  },
+  {
+    "id": "204",
+    "title": "A Paciente Silenciosa",
+    "author": "Alex Michaelides",
+    "year": 2019,
+    "description": "Suspense psicológico sobre trauma.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book204/200/300",
+    "tags": [
+      "suspense",
+      "psicologico",
+      "para_iniciantes",
+      "crime",
+      "misterio"
+    ]
+  },
+  {
+    "id": "205",
+    "title": "Jantar Secreto",
+    "author": "Raphael Montes",
+    "year": 2016,
+    "description": "Suspense brasileiro e violento.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book205/200/300",
+    "tags": [
+      "brasileiro",
+      "suspense",
+      "terror",
+      "perturbador",
+      "crime"
+    ]
+  },
+  {
+    "id": "206",
+    "title": "A Empregada",
+    "author": "Freida McFadden",
+    "year": 2022,
+    "description": "Thriller doméstico contemporâneo.",
+    "category": "mystery",
+    "cover": "https://picsum.photos/seed/book206/200/300",
+    "tags": [
+      "suspense",
+      "crime",
+      "misterio",
+      "para_iniciantes",
+      "thriller_domestico"
+    ]
+  },
+  {
+    "id": "207",
+    "title": "Os Sete Maridos de Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "year": 2017,
+    "description": "Drama sobre fama e identidade.",
+    "category": "drama",
+    "cover": "https://picsum.photos/seed/book207/200/300",
+    "tags": [
+      "drama",
+      "romance",
+      "historico",
+      "lgbtq",
+      "para_iniciantes"
+    ]
+  },
+  {
+    "id": "208",
+    "title": "É Assim que Acaba",
+    "author": "Colleen Hoover",
+    "year": 2016,
+    "description": "Romance contemporâneo e emocional.",
+    "category": "romance",
+    "cover": "https://picsum.photos/seed/book208/200/300",
+    "tags": [
+      "romance",
+      "drama",
+      "contemporaneo",
+      "virou_filme",
+      "para_iniciantes"
+    ]
+  },
+  {
+    "id": "209",
+    "title": "A Bailarina de Auschwitz",
+    "author": "Edith Eva Eger",
+    "year": 2017,
+    "description": "Memórias de sobrevivência e resiliência.",
+    "category": "nonfiction",
+    "cover": "https://picsum.photos/seed/book209/200/300",
+    "tags": [
+      "biografia",
+      "historico",
+      "psicologia",
+      "para_iniciantes",
+      "guerra"
+    ]
+  },
+  {
+    "id": "210",
+    "title": "Quarta Asa",
+    "author": "Rebecca Yarros",
+    "year": 2024,
+    "description": "Fantasia jovem com elementos românticos.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book210/200/300",
+    "tags": [
+      "fantasia",
+      "romance",
+      "dragoes",
+      "acao",
+      "jovem_adulto"
+    ]
+  },
+  {
+    "id": "211",
+    "title": "Era Uma Vez um Coração Partido",
+    "author": "Stephanie Garber",
+    "year": 2024,
+    "description": "Fantasia jovem sobre magia e corações partidos.",
+    "category": "fantasy",
+    "cover": "https://picsum.photos/seed/book211/200/300",
+    "tags": [
+      "fantasia",
+      "jovem_adulto",
+      "romance",
+      "magia",
+      "contos_de_fadas"
+    ]
+  },
+  {
+    "id": "212",
+    "title": "O Problema dos 3 Corpos",
+    "author": "Cixin Liu",
+    "year": 2016,
+    "description": "Ficção científica épica sobre contato alienígena.",
+    "category": "scifi",
+    "cover": "https://picsum.photos/seed/book212/200/300",
+    "tags": [
+      "ficcao_cientifica",
+      "epico",
+      "virou_filme",
+      "alienigenas",
+      "ciencia"
+    ]
+  }
+]
